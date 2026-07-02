@@ -1,1 +1,1 @@
-# Cs50-pyramids-project-practice-
+# Cs50-project-practice-
